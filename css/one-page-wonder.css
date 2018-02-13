@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: url('/images/Version-Control.11oz_mockup_Front_Back.11oz_1024x1024.png') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -99,7 +99,7 @@ footer {
     }
 
     .featurette-image {
-        max-width: 50%;
+        max-width: 60%;
     }
 
     .featurette-image.pull-left {
@@ -115,7 +115,7 @@ footer {
     }
 }
 
-@media(max-width:768px) {
+@media(max-width:700px) {
     .container {
         margin: 0 15px;
     }
